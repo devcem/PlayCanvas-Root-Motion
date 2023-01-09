@@ -6,3 +6,6 @@ Unity has a feature called root motion where it calculates the movement vector f
 With this simple plugin we set our characters into their inital positions to make them in placed. And get the movement vector on each frame to move characters with physics engine.
 
 You can download this plugin, and attach it to the root element easily. That will make character stop it's inital position. If you need to get movement vector, you can attach entity to parent entity and listen it with "this.entity.on" event listener.
+
+## Tutorial
+https://www.youtube.com/watch?v=iYAgFj6pCi0&ab_channel=CemDemir
